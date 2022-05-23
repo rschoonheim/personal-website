@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-blue-400">
+  <div class="my-auto p-5">
     <slot></slot>
   </div>
 </template>

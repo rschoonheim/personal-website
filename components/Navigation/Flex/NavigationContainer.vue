@@ -1,6 +1,6 @@
 <template>
-  <div class="container-fluid">
-    <div class="flex flex-row justify-center bg-gray-800">
+  <div class="container-fluid select-none">
+    <div class="flex flex-row justify-between bg-gray-800 text-white">
       <slot></slot>
     </div>
   </div>

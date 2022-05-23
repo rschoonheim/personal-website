@@ -2,9 +2,10 @@
   <div>
 
     <Navigation
+      class="mb-3"
     />
 
-    Default layout..
+    <Nuxt/>
   </div>
 </template>
 
