@@ -1,8 +1,7 @@
 <template>
-  <div>
+  <div class="min-h-screen">
 
     <Navigation
-      class="mb-3"
     />
 
     <Nuxt/>
